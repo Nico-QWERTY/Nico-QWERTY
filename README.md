@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Nicolas Picotti</h1>
 <h3 align="center">Soy un desarrollador front-end, en camino a convertirme en tester QA!</h3>
 
-- 💬 Ask me about **HTML, CSS, JS, TEST-LINK**
+- 💬 Pregúntame de **HTML, CSS, JS, TEST-LINK**
 
-- 📫 How to reach me **nicolaspicotti2003@gmail.com**
+- 📫 Mi contacto **nicolaspicotti2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
